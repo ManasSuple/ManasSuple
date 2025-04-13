@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a proactive and versatile frontend web developer with a keen sense for creating visually appealing and user-friendly digital experiences using tools like Figma and Canva. My experience includes front-end web projects and app development with FlutterFlow, as well as creating engaging content during an internship at Mira-Bhayandar Municipal Corporation. Known for my collaborative spirit and commitment to high-quality results, I thrive in fast-paced environments and enjoy bringing creative solutions to life.
+I am a proactive and versatile frontend web developer with a keen sense for creating visually appealing and user-friendly digital experiences. My experience includes front-end web projects and app development with FlutterFlow, as well as creating engaging content during an internship at Mira-Bhayandar Municipal Corporation. Known for my collaborative spirit and commitment to high-quality results, I thrive in fast-paced environments and enjoy bringing creative solutions to life.
+I am a passionate and driven individual currently pursuing a degree in Electronics and Telecommunications Engineering (EXTC) at KJ Somaiya Institute of Technology, with a solid foundation in programming from my Diploma in Computer Engineering from Shri Bhagubhai Mafatlal Polytechnic. Constantly seeking opportunities to learn and grow, I’m excited to contribute to innovative projects and collaborate with professionals in the tech industry.
 
 
 ## 🌐 Socials:
